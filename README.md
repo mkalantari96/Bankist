@@ -61,4 +61,4 @@ The main goal of this project is to create a web application that simulates a si
 
 - Utilized addEventListener to handle user actions, such as logging in, transferring money, requesting loans, deleting accounts, and sorting transactions.
 
-![alt text](bankist-flowchart.png)
+![alt text](Bankist-flowchart.png)
