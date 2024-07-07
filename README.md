@@ -1,5 +1,9 @@
 ![alt text](image.png)
 
+- to try this app with this account :
+  -- user = mrk
+  -- pin = 1111
+
 ## Project Description
 
 #### Goals:
@@ -12,11 +16,12 @@ The main goal of this project is to create a web application that simulates a si
 
 - Users can log in to their accounts using a username and PIN.
 - Each account displays the owner's name, account movements (deposits and withdrawals), balance, and a summary of income, expenses, and interest earned.
+- Users has time limit to be in login and after certain periods
 
 2. Deposits and Withdrawals:
 
 - Users can view a list of all their deposits and withdrawals.
-- The transactions are displayed in a clear, itemized format, showing the type (deposit or withdrawal) and amount.
+- The transactions are displayed in a clear, itemized format, showing the type (deposit or withdrawal) and amount and the date of transaction.
 
 3. Loan Requests:
 
